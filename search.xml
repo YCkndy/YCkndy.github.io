@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/2024/11/26/test/</url>
-    <content><![CDATA[<p>让我们说中文</p>
+    <title>hello world</title>
+    <url>/2024/11/26/hello-world-1/</url>
+    <content><![CDATA[<p>hehehehehe</p>
+<p><em>hehehe</em></p>
+<p><strong>hehehehe</strong></p>
 ]]></content>
   </entry>
   <entry>
@@ -25,11 +27,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>hello world</title>
-    <url>/2024/11/26/hello-world-1/</url>
-    <content><![CDATA[<p>hehehehehe</p>
-<p><em>hehehe</em></p>
-<p><strong>hehehehe</strong></p>
+    <title>test</title>
+    <url>/2024/11/26/test/</url>
+    <content><![CDATA[<p>让我们说中文</p>
 ]]></content>
   </entry>
 </search>
