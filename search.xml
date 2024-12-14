@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello world</title>
-    <url>/2024/11/26/hello-world-1/</url>
-    <content><![CDATA[<p>hehehehehe</p>
-<p><em>hehehe</em></p>
-<p><strong>hehehehe</strong></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2024/11/26/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -27,11 +19,27 @@
 ]]></content>
   </entry>
   <entry>
-    <title></title>
+    <title>test</title>
+    <url>/2024/11/26/test/</url>
+    <content><![CDATA[<p>让我们说中文</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>hello world</title>
+    <url>/2024/11/26/hello-world-1/</url>
+    <content><![CDATA[<p>hehehehehe</p>
+<p><em>hehehe</em></p>
+<p><strong>hehehehe</strong></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>风信子养护办法</title>
     <url>/2024/12/14/%E9%A3%8E%E4%BF%A1%E5%AD%90%E5%85%BB%E6%8A%A4%E6%96%B9%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="风信子养护办法"><a href="#风信子养护办法" class="headerlink" title="风信子养护办法"></a>风信子养护办法</h1><blockquote>
+    <content><![CDATA[<blockquote>
 <p>其中说法多有相互矛盾处，此处整合内容仅供参考  </p>
 </blockquote>
+<span id="more"></span>
+
 <h2 id="1-种球购买挑选与处理"><a href="#1-种球购买挑选与处理" class="headerlink" title="1. 种球购买挑选与处理"></a>1. 种球购买挑选与处理</h2><h3 id="种球的购买挑选"><a href="#种球的购买挑选" class="headerlink" title="种球的购买挑选"></a>种球的购买挑选</h3><p>先说一句题外话。本地品种农产品可以去农资店买。网购一般在某宝、拼多多、微信接龙等地购买，b站评论区推荐的店铺有</p>
 <blockquote>
 <p>持续更新</p>
@@ -42,12 +50,12 @@
 </ul>
 <p>另外网购的需要特别注意尽量不要买发货地是宿迁的种子种球。经常货不对板，种出来才知道是啥，有人买风信子种球种出来洋葱的。</p>
 <p>购进的风信子种球：  </p>
-<p><img src="/figure%20%E9%A3%8E%E4%BF%A1%E5%AD%90%E5%85%BB%E6%8A%A4%E6%96%B9%E6%B3%95/%E8%B4%AD%E8%BF%9B%E7%A7%8D%E7%90%83.jpg" alt="风信子种球"></p>
+<p><img src="https://cloud.tsinghua.edu.cn/f/e2ba49339ede4400bbf4/?dl=1" alt="风信子种球"></p>
 <h3 id="种球处理"><a href="#种球处理" class="headerlink" title="种球处理"></a>种球处理</h3><p>球到了就可以开始处理了。一般要做三步处理，但如果你属于比较随意的那种，做第二、三步就好（其实不作也行）：<br>1.剥皮  2.消毒  3.处理根盘</p>
-<h4 id="剥皮"><a href="#剥皮" class="headerlink" title="剥皮"></a>剥皮</h4><p>剥皮就一个目的：美观。对于难舍美观者，是不允许直接种下去一个洋葱头的。在剥皮时最好戴手套，要是嫌戴手套不方便，直接上手也行。但注意上手时不要让手碰到其余部位的皮肤比如脖子，要不然会痒痒的。另外，剥皮尽量不要把白色的部分剥下来，要是实在分不开紫皮与白色肉叶，就干脆不剥了为好。<br>剥前<br><img src="/figure%20%E9%A3%8E%E4%BF%A1%E5%AD%90%E5%85%BB%E6%8A%A4%E6%96%B9%E6%B3%95/%E5%89%A5%E5%89%8D.jpg" alt="剥前"><br>剥后<br><img src="/figure%20%E9%A3%8E%E4%BF%A1%E5%AD%90%E5%85%BB%E6%8A%A4%E6%96%B9%E6%B3%95/%E5%89%A5%E5%90%8E.jpg" alt="剥后"></p>
+<h4 id="剥皮"><a href="#剥皮" class="headerlink" title="剥皮"></a>剥皮</h4><p>剥皮就一个目的：美观。对于难舍美观者，是不允许直接种下去一个洋葱头的。在剥皮时最好戴手套，要是嫌戴手套不方便，直接上手也行。但注意上手时不要让手碰到其余部位的皮肤比如脖子，要不然会痒痒的。另外，剥皮尽量不要把白色的部分剥下来，要是实在分不开紫皮与白色肉叶，就干脆不剥了为好。<br>剥前<br><img src="https://cloud.tsinghua.edu.cn/f/f11f0265594746c0bcee/?dl=1" alt="剥前"><br>剥后<br><img src="https://cloud.tsinghua.edu.cn/f/82dcb321383848f2bb2e/?dl=1" alt="剥后"></p>
 <h4 id="消毒"><a href="#消毒" class="headerlink" title="消毒"></a>消毒</h4><p>主要目的是消灭种球表面霉菌，防止在潮湿环境下尤其是水培时种球发霉。本次使用的是多菌灵，一种低毒的真菌有丝分裂抑制剂。用量为8g&#x2F;200mL，可灵活调整，最终使多菌灵悬浊液呈豆浆样即可。  </p>
-<p>多菌灵用量示意（以手为参考）<br><img src="/figure%20%E9%A3%8E%E4%BF%A1%E5%AD%90%E5%85%BB%E6%8A%A4%E6%96%B9%E6%B3%95/%E5%A4%9A%E8%8F%8C%E7%81%B5%E7%94%A8%E9%87%8F.jpg" alt="多菌灵用量"><br><img src="/figure%20%E9%A3%8E%E4%BF%A1%E5%AD%90%E5%85%BB%E6%8A%A4%E6%96%B9%E6%B3%95/%E5%A4%9A%E8%8F%8C%E7%81%B5%E7%94%A8%E9%87%8F2.jpg" alt="多菌灵用量2"><br><img src="/figure%20%E9%A3%8E%E4%BF%A1%E5%AD%90%E5%85%BB%E6%8A%A4%E6%96%B9%E6%B3%95/%E5%A4%9A%E8%8F%8C%E7%81%B5%E6%82%AC%E6%B5%8A%E6%B6%B2.jpg" alt="多菌灵悬浊液"><br>(要是不小心当成豆浆喝掉了，记得去洗胃)</p>
-<h4 id="处理根盘"><a href="#处理根盘" class="headerlink" title="处理根盘"></a>处理根盘</h4><p>将老根处理掉，将更利于新根的生长。可能会用点力气，需要用指甲抠，但不要害怕。<br>处理前<br><img src="/figure%20%E9%A3%8E%E4%BF%A1%E5%AD%90%E5%85%BB%E6%8A%A4%E6%96%B9%E6%B3%95/%E6%A0%B9%E5%89%8D.jpg" alt="根前"><br>处理后<br><img src="/figure%20%E9%A3%8E%E4%BF%A1%E5%AD%90%E5%85%BB%E6%8A%A4%E6%96%B9%E6%B3%95/%E6%A0%B9%E5%90%8E.jpg" alt="根后"></p>
+<p>多菌灵用量示意（以手为参考）<br><img src="https://cloud.tsinghua.edu.cn/f/6e2b56468c8946af95b8/?dl=1" alt="多菌灵用量"><br><img src="https://cloud.tsinghua.edu.cn/f/b2c09e5e87004d38995f/?dl=1" alt="多菌灵用量2"><br><img src="https://cloud.tsinghua.edu.cn/f/d8f2634aa1174581b507/?dl=1" alt="多菌灵悬浊液"><br>(要是不小心当成豆浆喝掉了，记得去洗胃)</p>
+<h4 id="处理根盘"><a href="#处理根盘" class="headerlink" title="处理根盘"></a>处理根盘</h4><p>将老根处理掉，将更利于新根的生长。可能会用点力气，需要用指甲抠，但不要害怕。<br>处理前<br><img src="https://cloud.tsinghua.edu.cn/f/74fa576c6d89455f8589/?dl=1" alt="根前"><br>处理后<br><img src="https://cloud.tsinghua.edu.cn/f/d1dcbafe716041dba968/?dl=1" alt="根后"></p>
 <h2 id="2-种球种植"><a href="#2-种球种植" class="headerlink" title="2. 种球种植"></a>2. 种球种植</h2><h3 id="2-1-温度需求"><a href="#2-1-温度需求" class="headerlink" title="2.1 温度需求"></a>2.1 温度需求</h3><p>风信子买回来的一般都是春化完成的，想让他不发育不太可能。春化完成后，风信子在2-6℃就可以开始生根发育了。关于风信子各个生长时期所需的温度，网上说法不一，我在此逐一列出：  </p>
 <ul>
 <li><p>根系生长 2-6℃  芽口萌动 5-10℃  叶生长5-12℃  开花最适15-18℃  休眠鳞茎20-28℃</p>
@@ -69,12 +77,6 @@
 <p>本人虽是常驻北方，但室内有暖气，而且在窗边，室内与床边温度可达25℃。此情况下植株生长情况如何还待实践证明。  </p>
 <pre><code>Yckn于24.12.3
 </code></pre>
-]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2024/11/26/test/</url>
-    <content><![CDATA[<p>让我们说中文</p>
 ]]></content>
   </entry>
 </search>
